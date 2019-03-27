@@ -1,3 +1,3 @@
 # DOMPractice
 
-First edit from browser
+First edit from browser.
